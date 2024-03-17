@@ -11,7 +11,7 @@ data modelling- we will be joining mutiple tables
 background design in power point
 data visualization/chart design report/dashboard building insights
 
-**client want to create road accident dashboard of year 2021 and 2022
+client want to create road accident dashboard of year 2021 and 2022
 #they want a primary kpi - key performance indicator total casualities
 #total accident values for current year and yoy growth w.r.t last year
 #one more primary kpi's - total casualities by accident severity for current year and yoy growth
@@ -19,7 +19,7 @@ data visualization/chart design report/dashboard building insights
 #Monthly trend showing comparison of casualities for current year and previous year
 #casualities by road type for current year
 #current year casualities by area/location and by day/night
-#Total casualities and total accidents by location**
+#Total casualities and total accidents by location
 
 Power bi functionalities
 how to connect to raw data/flat file
