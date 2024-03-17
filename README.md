@@ -1,6 +1,6 @@
 
 # Driving Insights with Power BI: The Road Accident Data Project
-# Objective - The purpose of this power bi dashboard is to analyze road accident data and idenify patterns and trends that can help improve road safety imported the data into power bi and cleaned it to  ensure it was accurate and ready fir analysis the data includes information about accidents such as number of vehicles involved severity of the accident and the location and time of accdent
+# Objective - The purpose of this power bi dashboard is to analyze road accident data and idenify patterns and trends that can help improve road safety imported the data into power bi and cleaned it to  ensure it was accurate and ready for analysis the data includes information about accidents such as number of vehicles involved severity of the accident and the location and time of accdent
 
 1. requirement gathering
 stakeholders in project - who are the users of this particular project or the dashboard which we are designingraw data overview
