@@ -19,8 +19,6 @@ client want to create road accident dashboard of year 2021 and 2022
 # one more primary kpi's - total casualities by accident severity for current year and yoy growth
 
 # secondary kpi's - total casualities with respect to vehicle type for current year
-![image](https://github.com/vanshika879/project/assets/137144960/a0613365-cccb-431f-8284-810e4f27fe8b)
-
 
 # Monthly trend showing comparison of casualities for current year and previous year
 
@@ -44,6 +42,8 @@ creating different charts and generating insights
 export the report to users
 Data Overview
 3000 rows and 21 columns
+![image](https://github.com/vanshika879/project/assets/137144960/8cbc0cdc-bfcf-41a2-9c83-cf79ea1a9524)
+
 
  
 
