@@ -4,6 +4,7 @@
 
 1. requirement gathering
 stakeholders in project - who are the users of this particular project or the dashboard which we are designing raw data overview connecting data with power bi
+
 2.data cleaning
 3.data processing
 data modelling 
