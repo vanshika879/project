@@ -4,6 +4,7 @@
  Road accident dashboard of year 2021 and 2022
 
 1. requirement gathering
+2. 
 stakeholders in project - who are the users of this particular project or the dashboard which we are designing raw data overview connecting data with power bi
 
 2.data cleaning
